@@ -1,0 +1,9 @@
+# Совместимые зависимости для Jovay Network Automation
+requests>=2.28.0
+eth-account>=0.8.0
+py-solc-x>=1.12.0
+colorama>=0.4.0
+tqdm>=4.60.0
+
+# Web3 - используем совместимую версию
+web3>=5.31.0,<7.0.0
