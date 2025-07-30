@@ -1,4 +1,4 @@
-https://github.com/NotHennadii/JOVAY_AUTOBOT/blob/main/53683568356853.PNG?raw=true
+![JOVAY Banner](https://github.com/NotHennadii/JOVAY_AUTOBOT/blob/main/53683568356853.PNG?raw=true)
 ## Jovay FUCKER Bot
 
 Автоматизация взаимодействия с Jovay Network (RWA L2) - бридж токенов и деплой контрактов.
