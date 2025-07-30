@@ -40,6 +40,7 @@ pip install -r requirements_compatible.txt
 Отредактируйте файлы:
 - `private_keys.txt` - приватные ключи кошельков
 - `api_keys.txt` - API ключи ZAN (опционально)
+![API Banner](https://github.com/NotHennadii/JOVAY_AUTOBOT/blob/main/6835835683568.JPG?raw=true)
 - `proxies.txt` - прокси серверы (опционально)
 
 ### 4. Запуск
